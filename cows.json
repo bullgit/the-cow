@@ -1,0 +1,4 @@
+---
+# json from json what a smart thing!
+---
+{{site.data.cows|jsonify}}
